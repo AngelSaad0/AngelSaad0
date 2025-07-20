@@ -66,9 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AngelSaad0&show_icons=true&theme=tokyonight&count_private=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSaad0&layout=compact&theme=tokyonight" />
+    <br />
+  <img src="https://github.com/AngelSaad0/AngelSaad0/blob/output/snake.gif" />
 </div>
-
-![snake gif](https://github.com/AngelSaad0/AngelSaad0/blob/output/snake.gif)
 
 ---
 
