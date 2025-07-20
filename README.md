@@ -12,7 +12,7 @@
   <br />
 
   <a href="https://github.com/AngelSaad0">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7108A&width=435&lines=iOS+Developer++++++++ITI+Graduate;Lifelong+Learner+Specializing+in+Swift" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7108A&width=435&lines=iOS+Developer++++++++ITI+Graduate;Lifelong+Learner+Specializing+in+iOS" alt="Typing SVG" />
   </a>
 </div>
 
