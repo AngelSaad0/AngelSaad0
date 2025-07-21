@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <p>iOS Developer  | ITI Graduate</p>
+<p><strong>iOS Developer</strong></p>
   <p>Specialist in Swift, UIKit, SwiftUI & Flutter 🚀</p>
 
   <img src="https://komarev.com/ghpvc/?username=AngelSaad0&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
